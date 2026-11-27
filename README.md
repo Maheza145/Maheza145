@@ -5,9 +5,9 @@
 <br /><br />
 
 <p align="center">
-  <a href="https://website-kamu.com"><img src="https://img.shields.io/badge/Latveria_Net-050A08?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=10B981" alt="Portfolio" /></a>
-  <a href="https://discord.com/users/ID_DISCORD_KAMU"><img src="https://img.shields.io/badge/Discord-050A08?style=for-the-badge&amp;logo=discord&amp;logoColor=34D399" alt="Discord" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Comms-050A08?style=for-the-badge&amp;logo=gmail&amp;logoColor=E2E8F0" alt="Email" /></a>
+  <a href="https://mhz-egga.vercel.app/"><img src="https://img.shields.io/badge/AboutMe-050A08?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=10B981" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/aggemhz._"><img src="https://img.shields.io/badge/Discord-050A08?style=for-the-badge&amp;logo=discord&amp;logoColor=34D399" alt="Discord" /></a>
+  <a href="https://www.instagram.com/mhzaegga"><img src="https://img.shields.io/badge/Instagram-050A08?style=for-the-badge&amp;logo=gmail&amp;logoColor=E2E8F0" alt="Email" /></a>
 </p>
 
 <br />
