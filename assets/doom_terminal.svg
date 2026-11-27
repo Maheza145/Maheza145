@@ -17,12 +17,12 @@
   <text x="450" y="22" fill="#94A3B8" font-family="monospace" font-size="12" text-anchor="middle">victor@latveria-os: ~/doomsday-core</text>
 
   <text x="28" y="66" fill="#10B981" font-family="monospace" font-size="13.5" font-weight="bold">❯ whoami --universe=616</text>
-  <text x="44" y="88" fill="#E2E8F0" font-family="monospace" font-size="13">Full-Stack Engineer &amp; AI Builder forging resilient digital systems.</text>
+  <text x="44" y="88" fill="#E2E8F0" font-family="monospace" font-size="13">Web Development &amp; AI Builder forging resilient digital systems.</text>
 
   <text x="28" y="118" fill="#10B981" font-family="monospace" font-size="13.5" font-weight="bold">❯ cat ./arsenal.json</text>
   <text x="44" y="140" fill="#94A3B8" font-family="monospace" font-size="13">{</text>
-  <text x="64" y="160" fill="#34D399" font-family="monospace" font-size="13">"languages"<tspan fill="#E2E8F0">: ["TypeScript", "Python", "Go", "Rust"],</tspan></text>
-  <text x="64" y="180" fill="#34D399" font-family="monospace" font-size="13">"focus"<tspan fill="#E2E8F0">: ["Web Architecture", "AI Agents", "Cloud Infrastructure"]</tspan></text>
+  <text x="64" y="160" fill="#34D399" font-family="monospace" font-size="13">"languages"<tspan fill="#E2E8F0">: ["JS", "Python", "HTML", "CSS"],</tspan></text>
+  <text x="64" y="180" fill="#34D399" font-family="monospace" font-size="13">"focus"<tspan fill="#E2E8F0">: ["Web Architecture", "AI Agents", "Frontend"]</tspan></text>
   <text x="44" y="200" fill="#94A3B8" font-family="monospace" font-size="13">}</text>
 
   <text x="28" y="218" fill="#10B981" font-family="monospace" font-size="13.5" font-weight="bold">❯ _</text>
