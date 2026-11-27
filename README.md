@@ -20,6 +20,10 @@
 
 <br /><br />
 
+<img src="assets/doom_info.svg" width="100%" alt="doomsday Info" />
+
+<br /><br />
+
 <img src="assets/doom_bento.svg" width="100%" alt="Doomsday Systems Architecture" />
 
 <br /><br />
