@@ -48,7 +48,7 @@
   <rect x="335" y="42" width="230" height="24" rx="12" fill="#062016" stroke="#10B981" stroke-opacity="0.5"/>
   <text x="450" y="58" fill="#34D399" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="2" text-anchor="middle">PROTOCOL // DOOMSDAY-616</text>
 
-  <text x="450" y="128" fill="url(#metalGrad)" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" letter-spacing="4" text-anchor="middle">NAMA KAMU</text>
-  <text x="450" y="164" fill="#10B981" font-family="monospace" font-size="15" font-weight="bold" letter-spacing="2.5" text-anchor="middle">ARCHITECT OF SYSTEMS • MULTIVERSE DEVELOPER</text>
+  <text x="450" y="128" fill="url(#metalGrad)" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" letter-spacing="4" text-anchor="middle">EGGA MAHEZA</text>
+  <text x="450" y="164" fill="#10B981" font-family="monospace" font-size="15" font-weight="bold" letter-spacing="2.5" text-anchor="middle">• WEB DEVELOPMENT</text>
   <text x="450" y="206" fill="#64748B" font-family="monospace" font-size="12" letter-spacing="1.5" text-anchor="middle">"ALL HOPE LIES IN CLEAN CODE &amp; SCALABLE ARCHITECTURE."</text>
 </svg>
